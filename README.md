@@ -1,16 +1,18 @@
-### Hi there 👋
+<img align="right" width="200" height="200" src="https://media.tenor.com/images/2687e345ef435cf04e72c88d618c9a46/tenor.gif">
 
-<!--
-**AlanHJH/AlanHJH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Abaut Me
 
-Here are some ideas to get you started:
+- :mortar_board: UFFS - Universidade Federal da Fronteira Sul
+- :office: G3 Sistemas
+- :milky_way: Alwais coding
+- :heart: Leticia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Work with:
+
+- Node.js
+- ReactJS, React Native
+- Ionic
+- Java, Quarkus
+- Some times c++ :sunglasses:
+- MongoDB, Postgress
