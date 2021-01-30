@@ -5,7 +5,7 @@
 - :mortar_board: UFFS - Universidade Federal da Fronteira Sul
 - :office: G3 Sistemas
 - :milky_way: Alwais coding
-- :heart: Leticia
+- :heart: @leticiawebdesign
 
 
 ### Work with:
