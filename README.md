@@ -3,7 +3,7 @@
 ### About Me
 
 - :mortar_board: UFFS - Universidade Federal da Fronteira Sul
-- :office: G3 Sistemas
+- :office: Amplimed
 - :milky_way: Always coding
 - :heart: @LeticiaWebDesign
 
